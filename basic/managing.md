@@ -40,7 +40,12 @@
 Run the top command on the right side to view the processes running and information about them.
 
 Press Ctrl+a Tab to move back to the left side of the screen.
+# User specific aliases and functions
 
+alias rm='rm -i'
+alias cp='cp -i'
+alias mv='mv -i'
+alias aws='/usr/local/bin/aws'
 Run the stress process:
 
 stress -c 1

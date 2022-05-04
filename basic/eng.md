@@ -28,9 +28,9 @@
 | What's the point of ~ | | What's the point of doing your homework?|
 | | | I was told to do my homework.|
 | Can't wait to | | I can't wait to watch TV. |
-| | | I didn't mean to watch TV.|
-| | | It's no use watching TV. |
-| | | WHen was the last time you watched TV?|
+| | ~ 를 의도 하지는 않았다. | I didn't mean to watch TV.|
+| | ~ 해도 소용없다. | It's no use watching TV. |
+| | | When was the last time you watched TV?|
 | | | I have trouble watching TV.|
 | | | I can't stop reading the book.|
 | It's not worth -ing | | It's not worth reading the book.|
@@ -175,13 +175,13 @@
 | It's as clear as day that | ~하는게 뻔하다 | It’s as clear as day that he uploaded the photo.|
 | Be opposed to | | I’ve always been opposed to uploading photos.|
 | | 천천히 하세요 | Take your time moving this chair.|
-| | | I’m gonna show you how to move this chair.|
+| | 알려줄께 | I’m gonna show you how to move this chair.|
 | Be alleged to | 혐의를 받다 | I am alleged to move the chair. <br/> She is alleged to have run away.|
 | I’ll do anything, but | ~빼고 무엇이든 한다 | I’ll do anything, but move this chair.|
 | It takes a while | 시간좀 걸려 | It takes a while to move this chair.|
 | | 분명히 ~ 했었을 것 이다 | He must have taught English. <-> He cannot have taught English.|
-| | ~ 했었을 것 이다 | He would have taught English.|
-| | 할수있을 것 이다 | He could have taught English.|
+| would have p.p| ~ 했었을 것 이다 | He would have taught English.|
+| | (가능성) 할 수 있을 것이다 | He could have taught English.|
 | | 아마도 ~ 했었을 것 이다 | He might have taught English.|
 | | ~ 했었어야만 했다 | He should have taught English.|
 | | (현재)~하면 좋을텐데 | I wish he spoke Japanese.|
@@ -193,6 +193,7 @@
 | When was the last time | 언제가 마지막 | When was the last time you took the test?|
 | | 무슨느낌? | What does it feel like to take the test?|
 | | 우연히 ~ 하다 | I happened to take the test. Do you happen to know her?|
+| | 혹시 아냐? | Do you happened to know her?|
 | I regret to tell you that | 유감이지만 | I regret to tell you that you should take the test.|
 | | 후회한다 | I regret telling you the story.|
 | | 부꾸럽다 | I’m so ashamed that I danced with him.|
