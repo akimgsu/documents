@@ -6,8 +6,8 @@
 | Have p.p | | Have you studied English in America? |
 | | | It's difficult to study English.|
 | | | Do you know anyone who studies English.|
-| | ~ 가 하는것 처럼 보이다  | I saw him study English.|
-| It seems that | | It seems that he lives in Seoul.|
+| |   | I saw him study English.|
+| It seems that | ~ 가 하는것 처럼 보이다 | It seems that he lives in Seoul.|
 | How long have you + p.p </br> How long hve you been + ing | | How long have you lived in Seoul?|
 | Be suppose to + | | They are supposed to live in Seoul.|
 | Should have + p.p | ~해야만 했었다| I should have lived in Seoul.|
