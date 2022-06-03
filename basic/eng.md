@@ -207,3 +207,37 @@
 | Have any idea | 알기나 하냐 | Do you have any idea how risky that is as career. |
 | I don’t feel like | | I don’t feel like taking care of her.|
 | | | I have trouble taking care of her.|
+
+
+
+| Pattern | Meaning | Example |
+| ------- | ------- | ------- |
+| put ~ first | ~ 를 첫번재로 두다| I always put my family first.|
+| get the most out of | ~을 최대한으로 활용하다 | To get the most out of your money your have to invest.|
+| see eye to eye | 의견이 일치하다 | Sometimes we don't see eye to eye. |
+| more than welcome | 얼마든지 ~해도되 | You're more than welcome to stay with us |
+| do the trick | 효과 | It'll do the trick|
+| get the hang of it| | It's quite easy once you get the hang of it |
+| as far as ~ is concerned | ~에 관한 한| He has no worries as far as money is concerned. |
+| lean on| | I really leaned on her.|
+| | | Can I take a rain check? |
+| How did go? | 는 어땟어? | How did your project go?|
+| ended up ~ing| | I ended up becoming a full time comedian |
+| take over | | From now on I'll take over.|
+| it works for me | 난 좋아 | I think it works for me. |
+| | 모두를 위해 희생하다. | I'll take one for the team |
+| | 에 계속 알려주다. | I'll keep you posted on anything that happens. |
+| that's close enough | 그 정도면 됐어 | I'm pretty sure that's close enough. |
+| it's worth ~ing | ~할 가치가 있다. | Sometimes it's worth getting up early. |
+| | | Should I take that as a compliment? |
+| get right on | | We need to get right on it|
+| | 새것 같은 | It's as good as new. |
+| have in common| | We have a lot in common. |
+| | 너 답다. | It's typical of you. |
+| look after | | You look after yourself |
+| | | What took you so long to arrive here? |
+| | | I decided to go for it. |
+| | 대단한 작품 / 잘난 사람 | You are a piece of work. |
+| | | I won't let you down |
+| | 노력했다. | I've been trying to reach you|
+| |뜻박의 노력| It was a stroke of luck.|
