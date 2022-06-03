@@ -1,5 +1,20 @@
 # AWS
 
+## Overview Architectures
+| Title | Description |
+| ----- | ----------- |
+| Resilient | multi-tier architecture, highly available and fault-tolerant, and decoupling mechanisms |
+| High-Performing | elastic and scalable compute, high-performing and scalable storage, networking and databese solutions |
+| Secure Applications | secure access, application tiers and appropriate data security options |
+| Cost-Optimized | storage solutions, compute and database services and network architectures |
+
+## Building Blocks
+| Title | Description |
+| ----- | ----------- |
+| A Region | is a physical location in the world that consists of two or more AZs |
+| An AS | ss one or more discrete data |
+| Edge locations | are endpoints for AWS that are used for caching content. Typically, this consists of CloudFront, Amazon’s CDN. |
+
 ## Fundamentals
 | Title | Description |
 | ----- | ----------- |
@@ -8,7 +23,7 @@
 | Storage | S3, EBS, EFS, FSx, Storage Gateway |
 | DB | RDS, DynamoDB, Redshift |
 | Networking | VPCs, API Gateway, Direct Connect, AWS Global Accelerator, Route 53 |
-| Well Architected | Operational Excellence, Security, Reliability, Performance Cost |
+| Well Architected | Operational Excellence, Security, Reliability, Performance and Cost |
 
 ## IAM
 | Title | Description |
