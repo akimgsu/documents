@@ -155,9 +155,9 @@
 | | 그게 내가 하는 방식이야 | That’s the way I send the package.|
 | | | |
 | I would rather die | | I’d rather die than date him.|
-| | | I’m having a hard time speaking English. I'm having a hard time dating with her|
+| | 힘든시간 | I’m having a hard time speaking English. I'm having a hard time dating with her|
 | | 감이 온다 | I have a hunch that he dates her.|
-| Are you for or against | | Are you for or against dating him?|
+| Are you for or against | 찬성 반대 | Are you for or against dating him?|
 | I relieve that | 안심이다. | I’m relieved that she dates him |
 | be more than welcome to | 얼마든지 ~해도 좋다 | You are more than welcome to play the piano.|
 | Can't possibly + V | 도저히 ~을 못 할 것 같다 | I can’t possibly play the piano. <br/> I can't possibly meet the deadline |
