@@ -116,20 +116,20 @@
 | | ~ 하리라 예상못하다. | I didn’t expect to get a job.|
 | | | What’s the harm in getting a job?|
 | | | What if I get a job?|
-| What do you say | | What do you say we paint pictures? |
+| What do you say | ~하는게 어때 | What do you say we paint pictures? |
 | I'm on my way to | ~ 하러 가는 길 | I’m on my way to paint pictures.|
 | | | Can you help me with painting pictures?|
 | I can tell by looking at you | 딱 봐도 알겠다 | I can tell by looking at you that you paid for my lunch.|
 | | | Don’t take it personally, but you did do that?|
-| It bothers me that | | It bothers me that you paid for my lunch.|
+| It bothers me that | 거슬려 | It bothers me that you paid for my lunch.|
 | Given that | ~고려 했을때 | Given that you paid for my lunch, I will pay this time.|
 | It's not like | ~ 한것도 아니쟎아 | It’s not like you are paying for my lunch.|
 | | 단지 ~ 했다. | It’s just that I hung out with him.|
 | I'm itching to | ~ 하고 싶어 몸이 근질 거리다| I am itching to hang out with him.|
 | | 내가 ~ 라 했다면 거짓말이겠지 | I’d be lying if I said I hung out with him.|
 | | 도대체 어떻게 했냐 | How did you hang out with him?|
-| | 정말이야 | I’m telling you to hang out with him.|
-| | 차마 ~할 수없었다. | I can’t bring myself to tell him his wife is dead. <br/> I can’t bring myself to buy a car.|
+| I’m telling | 정말이야 | I’m telling you to hang out with him.|
+| I can’t bring myself | 차마 ~할 수없었다. | I can’t bring myself to tell him his wife is dead. <br/> I can’t bring myself to buy a car.|
 | | | Remind me to buy the car.|
 | | | I was wrong to buy the car.|
 | You have every reason | 충분한 이유가 있다 | You have every reason to buy the car.|
@@ -216,13 +216,13 @@
 | get the most out of | ~을 최대한으로 활용하다 | To get the most out of your money your have to invest.|
 | see eye to eye | 의견이 일치하다 | Sometimes we don't see eye to eye. |
 | more than welcome | 얼마든지 ~해도되 | You're more than welcome to stay with us |
-| do the trick | 효과 | It'll do the trick|
+| do the trick | 효과가 있다. | It'll do the trick|
 | get the hang of it| | It's quite easy once you get the hang of it |
 | as far as ~ is concerned | ~에 관한 한| He has no worries as far as money is concerned. |
-| lean on| | I really leaned on her.|
+| lean on| 의지한다 | I really leaned on her.|
 | | | Can I take a rain check? |
 | How did go? | 는 어땟어? | How did your project go?|
-| ended up ~ing| | I ended up becoming a full time comedian |
+| ended up ~ing| | I ended up becoming a full time comedian. |
 | take over | | From now on I'll take over.|
 | it works for me | 난 좋아 | I think it works for me. |
 | | 모두를 위해 희생하다. | I'll take one for the team |
@@ -240,4 +240,87 @@
 | | 대단한 작품 / 잘난 사람 | You are a piece of work. |
 | | | I won't let you down |
 | | 노력했다. | I've been trying to reach you|
-| |뜻박의 노력| It was a stroke of luck.|
+| |뜻박의 행운| It was a stroke of luck.|
+| | | |
+| | 짜증나~ | I am salty about this. This guy is salty all the time. |
+| | 모르는게 좋을거야~ | You don't want to know.|
+| | 내가 알게 뭐야 | Frankly speaking / Go ahead, I couldn't care less.|
+| | | I got stuck in traffic. We got stuck in traffic due to an accident yesterday.|
+| | 이건 별개의 문제야 | It's a different kettle of fish. I'm sure that it is a different kettle of fish.|
+| | 우리는 틀에 갇혀있어 | We're stuck in a rut. I just feel like we're stuck in a rut.|
+| | 너무 기대는 마 | Don't hold your breath on customer service.|
+| | 약속할께 | I give my word that this won't happen again.|
+| | 말하자면 길어 | it's a long story, but, in a nutshell, he has been arrested.|
+| | 고정관념을 깨야해 | we've got the break the mould. |
+| | | |
+| Give me a ballpark figure | | She gave us a ballpark figure for the cost. |
+| What's your best guess | 대략적으로 짐작하다 | What's your best guess on when the chick hatched? |
+| It is a pain in the neck | 골치거리 | |
+| It keeps me on my toes | 긴장하다 | |
+| We'll lie low | 남의 시선을 끌지 않을꺼다. | You'd better lie low. |
+| It blows me away | 감동시켜 | |
+| He susceptible to it | 민감해| |
+| I'll level with you | 솔직히 말하다. | You've got to level with your parents|
+| They had it coming | 자초하다 | I'm afraid(인것 같다)you had it coming. He has had it coming for years. |
+| I'll spare you the detail. | 자세한 건 생략할께 | I'll spare you the detail how that's work.|
+| | | |
+| That's what I'm talking about |내 말이 그말 | That's what I'm talking about. I'm trying to do it.|
+| the damage is done | 돌이 킬수 없다. | For the most part, the damage is done.|
+| I can't sit still | 가만히 않아있을수 없다.  | He can't sit still for even a second. |
+| | 그게 어디야 | It's really better than nothing.|
+| that's just the way it is | 그게 원래 그런거야 | I feel like that's just the way it is. |
+| stay focus | | Stay focused never slow down. |
+| He was quite high maintenance | 그는 손이 많이 가는 스타일 | We accepted him, even if he was emotionally high maintenance.|
+| I went cold turkey | | I went cold turkey last night.|
+| | | Don't keep me waiting |
+| get with the programme | 분위기 파알좀해 | it's time to get with the programme! |
+| would stop at nothing | 멈추지 않을것이다 | A mother proved she would stop at nothing to protect her child. |
+| boil down | to be reduced to the essentials | Being a disciple boils down to the imitation of Jesus. |
+| went along with | 동의 하다 | I went along with her idea. |
+| | | |
+| there's nothing to it | 그거 별거 아니지 | |
+| there is a twist | 반전이 있다 | There is a twist in a tale. Everything looks normal, but there is a twist.  |
+| out of the woods | 우리는 고비를 넘겼어 | We're out of the woods yet. |
+| let's play it by ear | 즉흥적으로 | You'd better play it by ear. |
+| don't even bring it up | 그 이야기 꺼내지도 마 | |
+| | 식탐이 대단하다 | Your eyes are really bigger than your stomach. |
+| it's not even close | 어림도 없지 | You're no match for me. It's not even close.  |
+| I don't blame you | 그럴 만도 하지 | I don't blame you for being angry. |
+| don't let it bother you | 신경 쓰지마 | |
+| I'm at your service | 뭐든 시켜만 주세요 | Don't mention it. I'm at your service. |
+| | | |
+| as cool as a cucumber | 침착하다 | She is as cool as a cucumber on any occasion |
+| down to earth | 현실적이다. | He is down to earth. |
+| | 문제를 처리하다 | We have to address the problem. |
+| | 몇살로 보이냐? | How old do you think I am? |
+| put - on the map| 유명해 지다| It put me on the map, so to speak. |
+| They are selling like hot cakes | 불티나게 팔리다 | This item is selling like hot cakes again. |
+| | 문제의 핵심 | This is at the hear of the matter. |
+| | 누구라 생각하냐? | Who do you think I am? |
+| it spiralled out of control | 통제 불능 | I feel like it spiralled out of control from there. |
+| | 빠르게 퍼져 나가다 | It quickly went viral on the internet. |
+| | | |
+| | 어떻게 하는지 알잖아 | You know the drill by now. |
+| | 우여 곡절 | It’s been quite a roller coaster ride for me. |
+| bits and bobs | 이런 저런 것들 | I‘ve heard bits and bobs of the story. |
+| look up | 존경하다 | I look up to him as a person and a coach a lot.  |
+| | 과대평가 | I think it’s overrated; Personally I reckon it’s overrated |
+| blessing in disguise | 전화위복 | It was a blessing in disguise for me; I realized it was a blessing in disguise. |
+| hold a grudge | 뒤끝이 없다 | I certainly don’t hold a grudge to her. |
+| a close call | 아슬아슬하다 | That was a close call for a few minutes. |
+| I don’t know off the top of my head. | 지금 당장 생각이 안나 | I don’t know off the top of my head; Like I said,  |
+| | 지긋지긋 | Frankly, I’m fed up with it |
+| | 너무 바빠 | I’ve got a lot on my plate right now. |
+| | 길 치 | Admittedly, I’m bad with directions. |
+| holding up | 견딜만 하니? | How are you holding up these days? |
+| | | All you need to do is do it. |
+| a penny for your thoughts? | 무슨 생각 하냐? | You seem pretty serious, a penny for your thoughts? |
+| | 미리 생각해둔게 있어? | May I ask what you have in mind? |
+| Don’t be that way | 그렇게 행동하지마 | Likewise, Don’t be that way because that can bite(괴롭히다) you. |
+| Let’s get the ball rolling | 일을 시작하자 | Let’s get the ball rolling. I’ve got to get the ball rolling. |
+| | 빠르게 친해 지다. | We got on like a house on fire. |
+| an arm and a leg | 비싸 | It costs an arm and a leg. |
+| | | |
+| | | |
+| | | |
+| | | |
