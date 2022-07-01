@@ -3,46 +3,46 @@
 | Pattern | Meaning | Example |
 | ------- | ------- | ------- |
 | Harder than |  | I study English harder than you.  |
-| Have p.p | | Have you studied English in America? |
+| Have p.p | 해본적 있어 | Have you studied English in America? |
 | | | It's difficult to study English.|
 | | | Do you know anyone who studies English.|
 | |   | I saw him study English.|
 | It seems that | ~ 가 하는것 처럼 보이다 | It seems that he lives in Seoul.|
-| How long have you + p.p </br> How long hve you been + ing | | How long have you lived in Seoul?|
-| Be suppose to + | | They are supposed to live in Seoul.|
+| How long have you + p.p </br> How long hve you been + ing | 얼마나 오랬동안 - 해왔냐 | How long have you lived in Seoul?|
+| Be suppose to + | - 하기로 되어있다 | They are supposed to live in Seoul.|
 | Should have + p.p | ~해야만 했었다| I should have lived in Seoul.|
 | | | I wish I lived in Seoul.|
-| | | I'm dying to drink coffee.|
+| | 하고싶다 | I'm dying to drink coffee.|
 | | | I want you to drink coffee.|
 | Had Better | ~ 하는게 좋겠다| You'd better drink coffee.|
 | There's no way | ~ 일리가 없다.| There's no way he drinks coffee.|
 | This is the first time + S + have p.p| | This is the first time I've drunk coffee.|
-| | | I'm not in the mood for cleaning my room.|
-| Be about to| | I was just about to clean my room.|
+| | 기분이 아니다 | I'm not in the mood for cleaning my room.|
+| Be about to| 막 - 하려고 하다 | I was just about to clean my room.|
 | | | I knew you would clean my room.|
-| | | He must have cleaned my room.|
+| | 분명히 - 했었을 것이다 | He must have cleaned my room.|
 | | | I told you to clean my room.|
-| | | I'm busy doing my homework.<br/> I'm busy working.|
+| | 바쁘다 | I'm busy doing my homework.<br/> I'm busy working.|
 | Make sure | | Make sure you do your homework. Make sure to call me.|
-| | | I'm sick of doing my homework.|
-| What's the point of ~ | | What's the point of doing your homework?|
+| | 지겹다 | I'm sick of doing my homework.|
+| What's the point of ~ | 무슨 의미 | What's the point of doing your homework?|
 | | | I was told to do my homework.|
-| Can't wait to | | I can't wait to watch TV. |
-| | ~ 를 의도 하지는 않았다. | I didn't mean to watch TV.|
+| Can't wait to | 너무 하고싶다 | I can't wait to watch TV. |
+| | -를 의도 하지는 않았다. | I didn't mean to watch TV.|
 | | ~ 해도 소용없다. | It's no use watching TV. |
 | | | When was the last time you watched TV?|
 | | | I have trouble watching TV.|
 | | | I can't stop reading the book.|
-| It's not worth -ing | | It's not worth reading the book.|
+| It's not worth -ing | 가치가 없다 | It's not worth reading the book.|
 | | | I'm in the middle of reading the book.|
-| It does't hurt to | | It doesn't hurt to read the book.|
-| | | I love it when you read the book.|
+| It does't hurt to | 나쁠것 없다 | It doesn't hurt to read the book.|
+| | 너무 좋다 when | I love it when you read the book.|
 | Can't help -ing | ~ 할수밖에 없었다. | I can't help driving a car. |
-| | | I wish I could drive a car. I wish I lived here.|
+| | -하면 좋을텐데 | I wish I could drive a car. I wish I lived here.|
 | | | You're not allowed to drive a car.|
 | | | Is it okay if I drive a car?|
-| | | I never thought I would drive a car.|
-| It turned out that | | It turned out that he played soccer.|
+| | 내가 -할거라 생각못함 | I never thought I would drive a car.|
+| It turned out that | 밝혀지다 | It turned out that he played soccer.|
 | Know better than to -| ~하지 않아야 한다는 것 쯤은 알아 | I know better than to play soccer. <br/>You should know better than to start a war.|
 | | | I hate it when you play soccer.|
 | | | I'm used to playing soccer.|
@@ -50,42 +50,42 @@
 | | 항상 여기서 일하길 원해왔어요. | I've always wanted to work here. |
 | | 여기서 일하는게 어때요? | What's it like to work here? |
 | | | Don't hesitate to work here. Don't hesitate to call me.|
-| | | I have no choice but to work here.|
-| | | I used to song here.|
+| | -할수밖에 없다 | I have no choice but to work here.|
+| | | I used to work here.|
 | | | |
 | Ask if | 인지 아닌지 | I asked if he listened to my song.|
-| | | I'm willing to listen the music.|
-| | | Can you make time for listening to his song?|
+| | 기꺼이 - 한다 | I'm willing to listen the music.|
+| | -할 시간을 낼수 있나 | Can you make time for listening to his song?|
 | No offense, but| | No offense, but I don't listen to his song.|
 | is the way to go | ~하는게 최고다. | Listening scripture song is the way to go. |
-| At first, I thought | | At first, I thought he was eating the food.|
-| It doesn't matter that | | It doesn't matter to me eating the food.|
-| | | What's the harm in eating the food?|
+| At first, I thought | -라 생각하다 | At first, I thought he was eating the food.|
+| It doesn't matter that | 문제되지 않아, 중요치 않아 | It doesn't matter to me eating the food.|
+| | 뭐가 문제야 | What's the harm in eating the food?|
 | Take it for granted that | | I take it for granted that he eats the food.|
-| Feel better knowing | | I feel better knowing that he eats my food.|
+| Feel better knowing | 한결 낳다 | I feel better knowing that he eats my food.|
 | Could you possibly | (정중하게) | Could you possibly wash the dishes?|
-| | | The last thing I want to do is wash the dishes.|
+| | 재일 싫다 | The last thing I want to do is wash the dishes.|
 | | 애써 ~ 하려 하지마 | Don't bother to wash the dishes.|
-| | | It's clear to me that he washed the dishes.|
-| | | As far as I know he washed the dishes.|
-| A is too much for B | | Doing the laundry is too much for you?| 
+| | -확신하다 | It's clear to me that he washed the dishes.|
+| | 내가 아는한 | As far as I know he washed the dishes.|
+| A is too much for B | 너무 과하냐 | Doing the laundry is too much for you?| 
 | How long does it take to | | How long does it take to do the laundry?|
-| | | Speaking of doing the laundry.|
+| | 말 나온 김데 | Speaking of doing the laundry.|
 | I am thinking of | 할까 생각 중| I am thinking of doing laundry.|
-| | | I put my best efforts to do the laundry.|
-| | | You didn't even write a letter.|
+| | 심혈을 기울이다  | I put my best efforts to do the laundry.|
+| | 심지어 - 안했다 | You didn't even write a letter.|
 | | | Are you expecting me to write a letter?|
 | How come(Why)| | How come you wrote the letter?|
 | | | I'm sure that he wrote the letter.|
 | It has something to do with | ~과 관련이 있다. | It has something to do with writing a letter.|
-| I was wondering if you could | | I was wondering if you could fix the door.|
+| I was wondering if you could | -주실수 있을까요  | I was wondering if you could fix the door.|
 | | | All you have to do is fix the door.|
 | Manage to | 가까스로 고치다 | I managed to fix the door.|
 | | 결국에 ~ 하다. | I ended up fixing the door.|
-| | | I can't thank you enough for fixing the door.|
+| | 몹시 감사하다 | I can't thank you enough for fixing the door.|
 | | | Don't forget to check your phone.|
-| | | Just in case, she checks my phone.|
-| | | It's been a long time since I checked my phone.|
+| | 만약을 대비해 | Just in case, she checks my phone.|
+| | -한지 오래 됐다 | It's been a long time since I checked my phone.|
 | | 애초에 ~ 했어야 했어 | I should have checked my phone in the first place.|
 | There's a good chance | ~의 가능성이 높아 | There's a good chance that she checks your phone.|
 | | 사실은 ... | The thing is I lost my wallet.|
@@ -94,11 +94,11 @@
 | | ~이 아쉽다 | It's a shame you lost your wallet.|
 | It just occurred to me | ~ 문득 생각 나다 | It just occurred to me that she lost her wallet.|
 | | 변명의 여지가 없다. | There's no excuse for breaking the cup.|
-| | | I'm embarrassed that I broke the cup.|
+| | 창피하다 | I'm embarrassed that I broke the cup.|
 | | 설상가상 | What's worse is that I broke the cup.|
 | | | All I know is that he broke the cup.|
-| | | I have no doubt that she broke the cup.|
-| | | What made you borrow the book? <br/>What makes you say that? What makes you work harder?|
+| | 의심의 여지가 없다 | I have no doubt that she broke the cup.|
+| | 동기가 뭐야 | What made you borrow the book? <br/>What makes you say that? What makes you work harder?|
 | | 모두가 ~하는것은 아니다. | Not everyone borrows the book.|
 | | 당분간 | For the time being, I won't borrow the book.|
 | | | What I'm saying is (that) I will borrow the book.|
