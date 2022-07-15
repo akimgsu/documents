@@ -44,7 +44,7 @@
 | 놀리지 마. | Don’t pull my leg. |
 | 왜 아무말도 안해? | Cat got your tongue? |
 | 너 상황 파악이 안 되는구나. | You have lost the plot. |
-| 그냥 우리끼리 비밀로 하자. Let’s just keep it between us. 
+| 그냥 우리끼리 비밀로 하자. | Let’s just keep it between us. |
 | 넌 어떻게 하는지 알잖아. | You know the drill.|
 | 우여곡절이 많았어. | It’s been a roller coaster ride. |
 | 당신을 존경해요. | I look up to you. |
