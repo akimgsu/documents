@@ -97,24 +97,24 @@
 | | 창피하다 | I'm embarrassed that I broke the cup.|
 | | 설상가상 | What's worse is that I broke the cup.|
 | | | All I know is that he broke the cup.|
-| | 의심의 여지가 없다 | I have no doubt that she broke the cup.|
+| | 확신한다( 의심의 여지가 없다)  | I have no doubt that she broke the cup.|
 | | 동기가 뭐야 | What made you borrow the book? <br/>What makes you say that? What makes you work harder?|
 | | 모두가 ~하는것은 아니다. | Not everyone borrows the book.|
-| | 당분간 | For the time being, I won't borrow the book.|
+| for the time being | 당분간 | For the time being, I won't borrow the book.|
 | | | What I'm saying is (that) I will borrow the book.|
-| |  A를 B 하지 못하게 | He keeps me from borrowing the book.|
+| | A를 B 하지 못하게 | He keeps me from borrowing the book.|
 | | | |
 | | | |
-| | | There’s no need to open the door.|
+| | -할 필요없다 | There’s no need to open the door.|
 | | ~ 이후로 시간이 얼마나 지났냐? | How long has it been since you opened the door? |
 | Let's say| ~라 가정해 보자 | Let’s say you open the door.|
 | If only I could | ~할 수만 있다면 좋을텐데 | If only I could open the door.|
-| Don't let| | Don’t let him open the door.|
+| Don't let| 못하게 하라 | Don’t let him open the door.|
 | | | If only I could play the game.|
 | | | Don’t let him play the game.|
 | | 자유롭게 ~ 하다. | Feel free to play the game.|
 | | ~ 하리라 예상못하다. | I didn’t expect to get a job.|
-| | | What’s the harm in getting a job?|
+| | -하는데 뭐가 문제야 | What’s the harm in getting a job?|
 | | | What if I get a job?|
 | What do you say | ~하는게 어때 | What do you say we paint pictures? |
 | I'm on my way to | ~ 하러 가는 길 | I’m on my way to paint pictures.|
@@ -124,24 +124,24 @@
 | It bothers me that | 거슬려 | It bothers me that you paid for my lunch.|
 | Given that | ~고려 했을때 | Given that you paid for my lunch, I will pay this time.|
 | It's not like | ~ 한것도 아니쟎아 | It’s not like you are paying for my lunch.|
-| | 단지 ~ 했다. | It’s just that I hung out with him.|
+| | 단지 ~ 한것뿐. | It’s just that I hung out with him.|
 | I'm itching to | ~ 하고 싶어 몸이 근질 거리다| I am itching to hang out with him.|
 | | 내가 ~ 라 했다면 거짓말이겠지 | I’d be lying if I said I hung out with him.|
 | | 도대체 어떻게 했냐 | How did you hang out with him?|
-| I’m telling | 정말이야 | I’m telling you to hang out with him.|
+| I’m telling | 정말이야 | I’m telling you I hang out with him.|
 | I can’t bring myself | 차마 ~할 수없었다. | I can’t bring myself to tell him his wife is dead. <br/> I can’t bring myself to buy a car.|
 | | | Remind me to buy the car.|
 | | | I was wrong to buy the car.|
 | You have every reason | 충분한 이유가 있다 | You have every reason to buy the car.|
 | | | You have every right to buy the car.|
-| | | Why would I buy the car?|
+| | 내가 왜 그래야해 | Why would I buy the car?|
 | | | I just found out that she called him.|
 | Get to the point where | 지경에 이르다. | I got to the point where I called him.|
 | | | I'd appreciate it if you could call him.|
 | | 어떻게 ~ 하도록 둘 수 있니 | How can you let him call her?|
 | | | The worst part is that he called her. |
 | Who would have thought | 누가 ~ 할거라 생각했겠어 | Who would have thought he could get a job? |
-| | | I doubt if he’ll sell it.|
+| | -일지 의심스럽다 | I doubt if he’ll sell it.|
 | | | There’s no reason to sell it.|
 | | | It's your turn to sell it.|
 | | 죄책감 느끼다 | I felt guilty for selling it.|
@@ -150,7 +150,7 @@
 | | 이게 제 일이이에요 | It’s my job to send the package.|
 | | 을 확실히 하고 싶다 | I want to make it clear that I sent the package.|
 | | | All you have to do is send the package.|
-| | | You’d better not send the package.|
+| | 보내지 않는게 | You’d better not send the package.|
 | Do you happen to know | 혹시 알고있냐 | Do you happen to know who sent the package?|
 | | 그게 내가 하는 방식이야 | That’s the way I send the package.|
 | | | |
@@ -280,7 +280,7 @@
 | | | |
 | there's nothing to it | 그거 별거 아니지 | |
 | there is a twist | 반전이 있다 | There is a twist in a tale. Everything looks normal, but there is a twist.  |
-| out of the woods | 우리는 고비를 넘겼어 | We're out of the woods yet. |
+| out of the woods | 우리는 고비를 넘겼어 | We're not out of the woods yet. |
 | let's play it by ear | 즉흥적으로 | You'd better play it by ear. |
 | don't even bring it up | 그 이야기 꺼내지도 마 | |
 | | 식탐이 대단하다 | Your eyes are really bigger than your stomach. |
@@ -297,7 +297,7 @@
 | They are selling like hot cakes | 불티나게 팔리다 | This item is selling like hot cakes again. |
 | | 문제의 핵심 | This is at the hear of the matter. |
 | | 누구라 생각하냐? | Who do you think I am? |
-| it spiralled out of control | 통제 불능 | I feel like it spiralled out of control from there. |
+| it spiraled out of control | 통제 불능 | I feel like it spiraled out of control from there. |
 | | 빠르게 퍼져 나가다 | It quickly went viral on the internet. |
 | | | |
 | | 어떻게 하는지 알잖아 | You know the drill by now. |
@@ -320,6 +320,15 @@
 | Let’s get the ball rolling | 일을 시작하자 | Let’s get the ball rolling. I’ve got to get the ball rolling. |
 | | 빠르게 친해 지다. | We got on like a house on fire. |
 | an arm and a leg | 비싸 | It costs an arm and a leg. |
+| pick up the slack | 대신 떠맡다 | Can you pick up the slack? |
+| | 과감하게 - 하다 | I threw caution to the wind and bought it. |
+| | 외모가 다는 아냐 | Beauty is only skin-deep |
+| | 말주변이 없어 | I'm not good with words. |
+| | 난 피곤해 | I'm running on fumes. |
+| | 내가 결정해 | I call the shots |
+| | 마음이 조마조마 | I have butterflies in my stomach.|
+| | 매력적이다 | it's inviting |
+| | | You've been left on read|
 | | | |
 | | | |
 | | | |

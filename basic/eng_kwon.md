@@ -33,18 +33,18 @@
 | 네 감정을 숨기지 마. |Don’t bottle up your feelings | 
 | 그건 구하기 어려워.| It is hard to come by. |
 | 나는 네가 점점 좋아지고 있어. | You’re growing on me. |
-| 나 밤새도록 일했어. |I burnt the midnight oil. |
-| 나 좀 봐줘.Cut me some slack. |
+| 나 밤새도록 일했어. | I burnt the midnight oil. |
+| 나 좀 봐줘. | Cut me some slack. |
 | 그게 가장 이상적인 경우죠.| That would be the best case scenario. |
 | 전적으로 동의해요. | I couldn’t agree more. |
 | 난 기억력이 나빠. | I’ve got a memory like a sieve. |
 | 이건 공짜예요. | It’s on the house. |
 | 넌 다른 의견도 들어봐야 할 것 같아.  | I think you should get a second opinion. |
-| 너는 최고야! You are second to none! |
+| 너는 최고야! | You are second to none! |
 | 놀리지 마. | Don’t pull my leg. |
 | 왜 아무말도 안해? | Cat got your tongue? |
 | 너 상황 파악이 안 되는구나. | You have lost the plot. |
-| 그냥 우리끼리 비밀로 하자. Let’s just keep it between us. 
+| 그냥 우리끼리 비밀로 하자. | Let’s just keep it between us. | 
 | 넌 어떻게 하는지 알잖아. | You know the drill.|
 | 우여곡절이 많았어. | It’s been a roller coaster ride. |
 | 당신을 존경해요. | I look up to you. |
