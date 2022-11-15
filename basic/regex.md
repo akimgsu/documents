@@ -53,3 +53,5 @@ const regex = /(?:https?:\/\/)?(?:www\.)?youtu.be\/([a-zA-Z0-9-]{11})/
 const url = 'http://www.youtu.be/-ZClicWm0zM' 
 url.match(regex)
 ```
+### others
+[^\x00-\x7F] - matches a single non-ASCII char
