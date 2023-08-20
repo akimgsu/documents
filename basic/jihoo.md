@@ -1,3 +1,24 @@
+## to
+
+| sentences | explain |
+| ------- | ------- |
+| I have no reason <b>to</b> help you.</br> I came <b>to</b> help you. </br> I have a meeting to attend. </br>I arrived here early <b>to</b> attend the meeting on time. </br> I wish I could go there but I have a wedding to attend. </br> I have an announcement <b>to</b> make at the meeting. </br> I need someone to pick me up at the airport. | |
+| I drank the milk in the fridge because there wan no name on it. </br> He yelled at me because the milk was his. </br> I decide <i>to</i> move out because I did not want to live with him. </br> I check the mild three times <i>to</i> see if it was mine after that happened. | |
+
+## have + p.p
+| sentences | explain |
+| ------- | ------- |
+| There have been some rumors <i>out there</i>.</br> It hasn't been easy for us to believe them.</br> We have been making phone calls to give answers.</br> They haven't called us back yet.  | |
+| | |
+
+
+## Idiom
+
+| sentences | explain |
+| ------- | ------- |
+| I have something to tell you.</br> Can we talk in privately? </br> I don't have anything to offer you. </br> Don't get your hope to high.  </br> I have a lot of reasons to get the promotion. Don't let me down. </br>I have something to think through. </br>Can I have the room please? </br>I have no reason to hear that. </br> Please zip it.| |
+| It is hard to explain why he got promoted. </br> he pulled some strings. </br> It took some time to find out who did this to me. </br> It is impossible to forget the day/when I met him. </br> It is hard to understand the way/how he manages this office  ||
+
 ## relative pronouns 
 
 | Title | basic | process | examples |
